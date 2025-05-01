@@ -57,7 +57,7 @@ Masuk ke:
 
 ---
 
-## Cara Menjalankan Scrcpy
+## Cara Menjalankan Scrcpy [scrpy](/images/icon.ico)
 
 ### 1. Menggunakan Kabel USB (Paling Stabil)
 
